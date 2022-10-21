@@ -5,19 +5,21 @@ menutitle: Resume
 ---
 ## Currently
 
-Current Position Description
+`2018 - (Expected) 2024`
+__California Institute of Technology__
+Ph.D. Candidate, Social Sciences 
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2014 - 2016`
+__National Taiwan University__
+M.A., Economics
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2010 - 2014`
+__National Taiwan University__
+B.B.A., Finance
 
-## Awards
+<!-- ## Awards
 
 `2012`
 Name of Award, Organization 
@@ -61,7 +63,7 @@ __Current Job Title__, Current Employer
 __Current Job Title__, Current Employer 
 
 - Task
-- Task
+- Task -->
 
 
 
