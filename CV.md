@@ -4,13 +4,13 @@ menuorder: 2
 menutitle: CV
 ---
 
-Download full CV <a href="https://mjfong.github.io/CV_Fong_Caltech_2022.pdf" target="_blank"><b style='color:#76777B'>here</b></a>.
+Download full CV <a href="https://mjfong.github.io/CV_Fong_Caltech_2022.pdf" target="_blank"><b style='color:#005851'>here</b></a>.
 
 ## Currently
 
 `2018 - (Expected) 2024`
 __California Institute of Technology__ <br>
-Ph.D. Candidate, Social Sciences 
+Ph.D. Candidate, Social Sciences (Economics)
 
 ## Education
 
@@ -21,6 +21,13 @@ M.A., Economics
 `2010 - 2014`
 __National Taiwan University__ <br>
 B.B.A., Finance
+
+
+## Full-Time Employment 
+
+`2017 - 2018`
+__National Taiwan University__ <br>
+Research assistant (for Joseph Tao-yi Wang)
 
 <!-- ## Awards
 
