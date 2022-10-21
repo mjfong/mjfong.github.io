@@ -22,16 +22,16 @@ M.A., Economics
 __National Taiwan University__ <br>
 B.B.A., Finance
 
-## Awards
+<!-- ## Awards
 
 `2012`
 Name of Award, Organization 
 
-## Publications
+## Publications -->
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+<!-- ### Journals
 
 `1994`
 Article Title, Journal Title
@@ -66,7 +66,7 @@ __Current Job Title__, Current Employer
 __Current Job Title__, Current Employer 
 
 - Task
-- Task 
+- Task  -->
 
 
 
