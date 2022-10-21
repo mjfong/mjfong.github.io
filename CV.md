@@ -1,25 +1,25 @@
 ---
 layout: resume
 menuorder: 3
-menutitle: Resume
+menutitle: CV
 ---
 ## Currently
 
 `2018 - (Expected) 2024`
-__California Institute of Technology__
+__California Institute of Technology__ <br>
 Ph.D. Candidate, Social Sciences 
 
 ## Education
 
 `2014 - 2016`
-__National Taiwan University__
+__National Taiwan University__ <br>
 M.A., Economics
 
 `2010 - 2014`
-__National Taiwan University__
+__National Taiwan University__ <br>
 B.B.A., Finance
 
-<!-- ## Awards
+## Awards
 
 `2012`
 Name of Award, Organization 
@@ -63,7 +63,7 @@ __Current Job Title__, Current Employer
 __Current Job Title__, Current Employer 
 
 - Task
-- Task -->
+- Task 
 
 
 
