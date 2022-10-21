@@ -26,8 +26,8 @@ B.B.A., Finance
 ## Full-Time Employment 
 
 `2017 - 2018`
-__National Taiwan University__ <br>
-Research assistant (for Joseph Tao-yi Wang)
+__Research Assistant__ for Joseph Tao-yi Wang <br>
+Department of Economics, National Taiwan University
 
 <!-- ## Awards
 
