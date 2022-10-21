@@ -9,7 +9,7 @@ menuorder: 1
 
 <b>About me:</b> I am a PhD Candidate in Social Sciences (Economics) at California Institute of Technology. I received my B.B.A. in Finance and M.A. in Economics from National Taiwan University.
 
-<b>Research interests:</b> experimental economics, behavioral microeconomic theory 
+<b>Research interests:</b> experimental economics, behavioral economics, game theory 
 
 <b>Email:</b> mjfong@caltech.edu
 
