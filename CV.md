@@ -3,6 +3,8 @@ layout: resume
 menuorder: 3
 menutitle: CV
 ---
+
+
 ## Currently
 
 `2018 - (Expected) 2024`
