@@ -4,6 +4,7 @@ menuorder: 3
 menutitle: CV
 ---
 
+Download full <a href="https://mjfong.github.io/CV_Fong_Caltech_2022.pdf" target="_blank"><b>CV</b></a>.
 
 ## Currently
 
