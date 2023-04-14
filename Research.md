@@ -3,28 +3,15 @@ layout: resume
 menuorder: 3
 menutitle: Research
 ---
-<!-- 
-<details>
-  <summary>
-    What is the meaning of life?
-    <span class="icon">👇</span>
-  </summary>
-  <p>
-    42
-  </p>
-</details>
- -->
+
 ## Published Papers
 
-<details><summary>
   - **<a href="https://www.frontiersin.org/articles/10.3389/frbhe.2023.1096598/full"><b style='color:#005851'>Extreme (and Non-Extreme) Punishments in Sender-Receiver Games with Judicial Error: An Experimental Investigation</b></a>** (with <a href="http://homepage.ntu.edu.tw/~josephw/"><b style='color:#005851'>Joseph Tao-yi Wang</b></a>)
-  <span class="icon"><i style='font-size:24px' class='fas'>&#xf107;</i></span>
   <br><br>
   Frontiers in Behavioral Economics, 2023
-  </summary>
   <br><br>
-<!--   <details><summary><ins>Abstract</ins></summary> -->
-  <p>In many real world situations, decision-makers have the opportunity to punish informed senders for their biased recommendations, while lie-detection is far from perfect. Hence, we conduct an experiment which incorporates ex post punishment and monitoring uncertainty into the discrete sender-receiver game first introduced by Crawford and Sobel, where a knowledgeable sender sends a cheap-talk message to a receiver who determines a policy action. After taking this action, the receiver observes a noisy signal of the true state and can impose a costly punishment on the sender. We vary the strength of punishment from mild (nominal), strong (deterrent) to extreme (potential of losing everything), and vary receiver's signal uncertainty when punishment is extreme. We find that receivers punish less as the strength of punishment increases, which suggests people care more about wrongly punishing innocent senders harsher than not being able to hand liars harsher punishments they deserve. More importantly, the opportunity of punishment encourages receivers to follow senders more and thus improves overall information transmission and utilization, even though senders need not exaggerate less.</p>
+  <details><summary><ins>Abstract</ins></summary>
+  <p><i>In many real world situations, decision-makers have the opportunity to punish informed senders for their biased recommendations, while lie-detection is far from perfect. Hence, we conduct an experiment which incorporates ex post punishment and monitoring uncertainty into the discrete sender-receiver game first introduced by Crawford and Sobel, where a knowledgeable sender sends a cheap-talk message to a receiver who determines a policy action. After taking this action, the receiver observes a noisy signal of the true state and can impose a costly punishment on the sender. We vary the strength of punishment from mild (nominal), strong (deterrent) to extreme (potential of losing everything), and vary receiver's signal uncertainty when punishment is extreme. We find that receivers punish less as the strength of punishment increases, which suggests people care more about wrongly punishing innocent senders harsher than not being able to hand liars harsher punishments they deserve. More importantly, the opportunity of punishment encourages receivers to follow senders more and thus improves overall information transmission and utilization, even though senders need not exaggerate less.</i></p></details>
   
 ## Working Papers
 
