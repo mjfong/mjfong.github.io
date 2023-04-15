@@ -20,7 +20,7 @@ Welcome to my research page!
 - **<a href="https://www.hss.caltech.edu/research/social-sciences-research/working-papers/a-note-on-cursed-sequential-equilibrium-and-sequential-cursed-equilibrium?return_url=/research/social-sciences-research/working-papers" target="_blank"><b style='color:#005851'>A Note on Cursed Sequential Equilibrium and Sequential Cursed Equilibrium</b></a>** (with <a href="https://www.po-hsuan-lin.com/research" target="_blank">Po-Hsuan Lin</a> and <a href="http://www.its.caltech.edu/~trp/" target="_blank">Thomas R. Palfrey</a>)
 <br><br>
 Caltech Social Science Working Paper #1467, Updated 04/11/2023
-  <details><summary><ins>Abstract</ins></summary>
+  <details><summary><ins>Abstract</ins></summary><br> 
   <p>In this short note, we compare the cursed sequential equilibrium (CSE) by Fong et al. (2023) and the sequential cursed equilibrium (SCE) by Cohen and Li (2023). We identify eight main differences between CSE and SCE with respect to the following features: <br> 
     (1) the family of applicable games, <br>
     (2) the number of free parameters, <br>
@@ -30,8 +30,6 @@ Caltech Social Science Working Paper #1467, Updated 04/11/2023
     (6) violations of subgame perfection and sequential rationality, <br>
     (7) re-labeling of actions, and <br>
     (8) effects in one-stage simultaneous-move games.</p></details>
-
-<br>
 
 - **<a href="https://www.hss.caltech.edu/research/social-sciences-research/working-papers/cursed-sequential-equilibrium?return_url=/research/social-sciences-research/working-papers" target="_blank"><b style='color:#005851'>Cursed Sequential Equilibrium</b></a>** (with <a href="https://www.po-hsuan-lin.com/research" target="_blank">Po-Hsuan Lin</a> and <a href="http://www.its.caltech.edu/~trp/" target="_blank">Thomas R. Palfrey</a>)
 <br><br>
