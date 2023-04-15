@@ -3,6 +3,7 @@ layout: resume
 menuorder: 3
 menutitle: Research
 ---
+This is my research page.
 
 # Papers
 
@@ -30,7 +31,6 @@ Caltech Social Science Working Paper #1467, Updated 04/11/2023
     (7) re-labeling of actions, and <br>
     (8) effects in one-stage simultaneous-move games.</p></details>
 
-<br>  
   
 - **<a href="https://www.hss.caltech.edu/research/social-sciences-research/working-papers/cursed-sequential-equilibrium?return_url=/research/social-sciences-research/working-papers" target="_blank">Cursed Sequential Equilibrium</a>** (with <a href="https://www.po-hsuan-lin.com/research" target="_blank">Po-Hsuan Lin</a> and <a href="http://www.its.caltech.edu/~trp/" target="_blank">Thomas R. Palfrey</a>)
 <br><br>
