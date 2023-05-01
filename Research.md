@@ -41,6 +41,6 @@ Caltech Social Science Working Paper #1465, Updated 04/11/2023
   
 - **<b style='color:#005851'>Measuring Higher-Order Rationality with Belief Control</b>** (with <a href="https://jamesweichen.notion.site/Home-d648bb9977ba42fcb6340fc5c0c8d07a" target="_blank">Wei James Chen</a> and <a href="https://www.po-hsuan-lin.com/research" target="_blank">Po-Hsuan Lin</a>)
 <br><br>
-Draft coming soon.
+Draft coming soon. [<a href="https://mjfong.github.io/LAX_poster.pdf" target="_blank"><b style='color:#005851'>Poster</b></a>]
   <details><summary><ins>Abstract</ins></summary>
   <p>Using choice data to infer an individual's strategic reasoning ability is challenging since a sophisticated player may form non-equilibrium beliefs about others and thus exhibit non-equilibrium behavior. We conduct an experiment to identify individual rationality bound by matching human subjects with computer players that are known to be fully rational. By introducing robot players, we can disentangle the effect of limited reasoning ability from belief formation and social preferences. Overall, we find that individual rationality levels are stable across games when subjects are matched with robots, which suggests the validity of the robot approach.</p></details>
