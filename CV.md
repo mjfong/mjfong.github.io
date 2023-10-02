@@ -4,15 +4,18 @@ menuorder: 2
 menutitle: CV
 ---
 
-Download full CV <a href="https://mjfong.github.io/CV_Fong_Caltech_May_2023.pdf" target="_blank"><b style='color:#005851'>here</b></a>.
+<!-- Download full CV <a href="https://mjfong.github.io/CV_Fong_Caltech_May_2023.pdf" target="_blank"><b style='color:#005851'>here</b></a>. -->
 
 ## Currently
+
+`2023 - `
+__Postdoctoral Scientist__ at Amazon.com <br>
+
+## Education
 
 `2018 - 2023`
 __California Institute of Technology__ <br>
 Ph.D., Social Sciences
-
-## Education
 
 `2014 - 2016`
 __National Taiwan University__ <br>
