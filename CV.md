@@ -8,9 +8,9 @@ Download full CV <a href="https://mjfong.github.io/CV_Fong_Caltech_May_2023.pdf"
 
 ## Currently
 
-`2018 - (Expected) 2024`
+`2018 - 2023`
 __California Institute of Technology__ <br>
-Ph.D. Candidate, Social Sciences (Economics)
+Ph.D., Social Sciences
 
 ## Education
 
