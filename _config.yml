@@ -8,14 +8,14 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Meng-Jhang Fong
   avatar: CIT_HSS_Meng-Jhang_Fong_headshot.jpg 
-  bio: PhD Candidate in Social Sciences (Economics), Caltech
-  email: mjfong@caltech.edu
+  bio: PhD in Social Sciences, Caltech
+  email: mengjhangfong@gmail.com
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
   github: #username
   orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
+  researchgate: Meng-Jhang-Fong
   mendeley: #username
   google:
     plus: #username
