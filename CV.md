@@ -15,7 +15,7 @@ __Postdoctoral Scientist__ at Amazon.com <br>
 
 `2018 - 2023`
 __California Institute of Technology__ <br>
-Ph.D., Social Sciences
+Ph.D., Social Science
 
 `2014 - 2016`
 __National Taiwan University__ <br>
