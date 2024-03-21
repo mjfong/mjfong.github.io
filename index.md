@@ -9,7 +9,7 @@ menuorder: 1
 
 Hi! I am Meng-Jhang (or MJ) Fong. I received my PhD in Social Science (Economics) from California Institute of Technology. 
 
-Starting from October 2023, I will join Amazon as a Postdoctoral Scientist.
+I've joined Amazon as a Postdoctoral Scientist since October 2023.
 
 <b>Research Interests:</b> Experimental Economics, Behavioral Economics, Game Theory 
 
