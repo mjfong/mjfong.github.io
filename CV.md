@@ -4,12 +4,13 @@ menuorder: 2
 menutitle: CV
 ---
 
-Download full CV <a href="https://mjfong.github.io/CV_Fong_September_2024.pdf" target="_blank"><b style='color:#005851'>here</b></a>. 
+Download full CV <a href="https://mjfong.github.io/CV_Fong_MPI_April_2025.pdf" target="_blank"><b style='color:#005851'>here</b></a>. 
 
 ## Currently
 
-`2023 - `
-__Postdoctoral Scientist__ at Amazon.com <br>
+`2025 - `
+__Senior Research Fellow (Postdoc)__ in the research group of Axel Ockenfels <br>
+Max Planck Institute for Research on Collective Goods
 
 ## Education
 
@@ -26,7 +27,10 @@ __National Taiwan University__ <br>
 B.B.A., Finance
 
 
-## Full-Time Employment 
+## Full-Time Employment
+
+`2023 - 2024`
+__Postdoctoral Scientist__ at Amazon.com <br>
 
 `2017 - 2018`
 __Research Assistant__ for Joseph Tao-yi Wang <br>
