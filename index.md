@@ -9,7 +9,7 @@ menuorder: 1
 
 Hi! I am Meng-Jhang (or MJ) Fong. I received my PhD in Social Science (Economics) from California Institute of Technology. 
 
-I've joined Max Planck Institute for Research on Collective Goods as a Senior Research Fellow (Postdoc) since April 2025.
+I've joined <a href="https://www.coll.mpg.de/" target="_blank">Max Planck Institute for Research on Collective Goods</a> as a Senior Research Fellow (Postdoc) since April 2025.
 
 <b>Research Interests:</b> Experimental Economics, Behavioral Economics, Game Theory 
 
