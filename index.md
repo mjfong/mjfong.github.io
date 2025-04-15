@@ -13,7 +13,7 @@ I've joined Max Planck Institute for Research on Collective Goods as a Senior Re
 
 <b>Research Interests:</b> Experimental Economics, Behavioral Economics, Game Theory 
 
-<b>Email:</b> mengjhangfong [at] gmail.com
+<b>Email:</b> fong [at] coll.mpg.de
 
 <!-- 
 ## Current Interests and Projects:
