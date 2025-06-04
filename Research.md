@@ -23,7 +23,7 @@ Frontiers in Behavioral Economics, 2023
   
 ## Working Papers
 
-- **<a href="https://www.hss.caltech.edu/research/social-sciences-research/working-papers/cursed-sequential-equilibrium?return_url=/research/social-sciences-research/working-papers" target="_blank"><b style='color:#005851'>Cursed Sequential Equilibrium</b></a>** (with <a href="https://www.po-hsuan-lin.com/" target="_blank">Po-Hsuan Lin</a> and <a href="http://www.its.caltech.edu/~trp/" target="_blank">Thomas R. Palfrey</a>) <i>conditionally accepted at American Economic Review</i>
+- **<a href="https://www.hss.caltech.edu/research/social-sciences-research/working-papers/cursed-sequential-equilibrium?return_url=/research/social-sciences-research/working-papers" target="_blank"><b style='color:#005851'>Cursed Sequential Equilibrium</b></a>** (with <a href="https://www.po-hsuan-lin.com/" target="_blank">Po-Hsuan Lin</a> and <a href="http://www.its.caltech.edu/~trp/" target="_blank">Thomas R. Palfrey</a>) <i>forthcoming at American Economic Review</i>
 <br><br>
 Caltech Social Science Working Paper #1465, Updated 04/11/2023 
   <details><summary><ins>Abstract</ins></summary><br><br>
