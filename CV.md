@@ -4,13 +4,13 @@ menuorder: 2
 menutitle: CV
 ---
 
-Download full CV <a href="https://mjfong.github.io/CV_Fong_MPI_25042025.pdf" target="_blank"><b style='color:#005851'>here</b></a>. 
+Download full CV <a href="https://mjfong.github.io/CV_Fong_MPI_05012026.pdf" target="_blank"><b style='color:#005851'>here</b></a>. 
 
 ## Currently
 
 `2025 - `
 __Senior Research Fellow (Postdoc)__ in the research group of Axel Ockenfels <br>
-Economic Design & Behavior, Max Planck Institute for Research on Collective Goods
+Economic Design & Behavior, Max Planck Institute for Behavioral Economics
 
 ## Education
 
