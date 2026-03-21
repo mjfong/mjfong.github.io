@@ -29,11 +29,7 @@ $lowlightcolor: {{ site.lowlight-color }};
 @import "vendor/magnific-popup/magnific-popup";
 //@import "vendor/google/fonts";
 @import "print";
-
-details summary {
-  cursor: pointer;
-}
-
-details summary:hover {
+summary {
+  cursor: pointer !important;
   text-decoration: underline;
 }
