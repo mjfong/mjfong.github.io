@@ -29,17 +29,9 @@ Welcome to my research page!
   
 ## Working Papers
 
-- **<a href="https://www.hss.caltech.edu/research/social-sciences-research/working-papers/a-note-on-cursed-sequential-equilibrium-and-sequential-cursed-equilibrium?return_url=/research/social-sciences-research/working-papers" target="_blank"><b style='color:#005851'>A Note on Cursed Sequential Equilibrium and Sequential Cursed Equilibrium</b></a>** (with <a href="https://www.po-hsuan-lin.com/" target="_blank">Po-Hsuan Lin</a> and <a href="http://www.its.caltech.edu/~trp/" target="_blank">Thomas R. Palfrey</a>)
+- **<a href="https://arxiv.org/abs/2304.05515" target="_blank"><b style='color:#005851'>A Comparison of Cursed Sequential Equilibrium and Sequential Cursed Equilibrium: Different Concepts of Cursedness in Dynamic Games</b></a>** (with <a href="https://www.po-hsuan-lin.com/" target="_blank">Po-Hsuan Lin</a> and <a href="http://www.its.caltech.edu/~trp/" target="_blank">Thomas R. Palfrey</a>)
 <br><br>
-Caltech Social Science Working Paper #1467, Updated 04/11/2023
+arXiv:2304.05515v2, Updated 21 Mar 2026
   <details><summary><ins>Abstract</ins></summary><br><br>
-  <p>In this short note, we compare the cursed sequential equilibrium (CSE) by Fong et al. (2023) and the sequential cursed equilibrium (SCE) by Cohen and Li (2023). We identify eight main differences between CSE and SCE with respect to the following features: <br> 
-    (1) the family of applicable games, <br>
-    (2) the number of free parameters, <br>
-    (3) the belief updating process, <br>
-    (4) the treatment of public histories, <br>
-    (5) effects in games of complete information, <br>
-    (6) violations of subgame perfection and sequential rationality, <br>
-    (7) re-labeling of actions, and <br>
-    (8) effects in one-stage simultaneous-move games.</p></details><br>
+  <p>Cursed Equilibrium of Eyster and Rabin (2005) has been a leading theory for explaining winner's-curse-type behavior in static Bayesian games, but it faces conceptual limitations when applied to dynamic games. Two recent extensions, Cursed Sequential Equilibrium (CSE) by Fong, Lin and Palfrey (2025) and Sequential Cursed Equilibrium (SCE) by Cohen and Li (2026), address these limitations in fundamentally different ways. Complementing these two papers, this paper provides a systematic comparison of CSE and SCE, clarifying their conceptual foundations and technical implications, including their notions of cursedness, belief updating, and treatment of public histories.</p></details>
 
