@@ -31,9 +31,9 @@ Welcome to my research page!
 
 - **<a href="https://arxiv.org/abs/2304.05515" target="_blank"><b style='color:#005851'>A Comparison of Cursed Sequential Equilibrium and Sequential Cursed Equilibrium: Different Concepts of Cursedness in Dynamic Games</b></a>** (with <a href="https://www.po-hsuan-lin.com/" target="_blank">Po-Hsuan Lin</a> and <a href="http://www.its.caltech.edu/~trp/" target="_blank">Thomas R. Palfrey</a>)
 <br><br>
-arXiv:2304.05515v2, Updated 21 Mar 2026
+arXiv:2304.05515v3, Updated 7 May 2026
   <details><summary><ins>Abstract</ins></summary><br><br>
-  <p>Cursed Equilibrium of Eyster and Rabin (2005) has been a leading theory for explaining winner's-curse-type behavior in static Bayesian games, but it faces conceptual limitations when applied to dynamic games. Two recent extensions, Cursed Sequential Equilibrium (CSE) by Fong, Lin and Palfrey (2025) and Sequential Cursed Equilibrium (SCE) by Cohen and Li (2026), address these limitations in fundamentally different ways. Complementing these two papers, this paper provides a systematic comparison of CSE and SCE, clarifying their conceptual foundations and technical implications, including their notions of cursedness, belief updating, and treatment of public histories.</p></details>
+  <p>Cursed Equilibrium of Eyster and Rabin (2005) has been a leading theory for explaining winner's-curse-type behavior in static Bayesian games, but it faces conceptual limitations when applied to dynamic games. Two recent extensions, Cursed Sequential Equilibrium (CSE) by Fong, Lin and Palfrey (2025) and Sequential Cursed Equilibrium (SCE) by Cohen and Li (2026), address these limitations in fundamentally different ways. Complementing these two papers, this paper provides a systematic comparison of CSE and SCE, clarifying their conceptual foundations and technical implications, including their notions of cursedness, belief updating, and treatment of public histories. </p></details>
 
 ## Work in Progress
 
