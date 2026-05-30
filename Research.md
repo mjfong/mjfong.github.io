@@ -37,6 +37,12 @@ arXiv:2304.05515v3, Updated 7 May 2026
 
 ## Work in Progress
 
+- **<b style='color:#005851'>Revisiting the Intra-Team Communication Method to Elicit Level-<i>k</i> Reasoning in Beauty Contests and 11-20 Games</b>** (with Zitian Wang, Istiak Ahmed, Patarasate Unjitwattana, Emily Yunxi Xie and <a href="https://www.po-hsuan-lin.com/" target="_blank">Po-Hsuan Lin</a>)
+<br><br>
+Revising for <i>European Economic Review</i>
+  <details><summary><ins>Abstract</ins></summary><br><br>
+  <p>In this paper, we provide the first replication of the original beauty contest experiment with the intra-team communication method of Burchardi and Penczynski (2014). We also apply this method to the 11–20 game, another canonical setting for studying level-<i>k</i> reasoning proposed by Arad and Rubinstein (2012). Focusing on the "re-ordered" version introduced by Goeree et al. (2018), which exhibits heterogeneous noisy behavior not well explained by the standard level-<i>k</i> model, we not only provide the first replication of this re-ordered 11–20 game, but also use the method to illuminate the reasoning underlying such behavior and its relationship to level-k thinking. Overall, our study offers an integrated perspective on empirical patterns in two canonical games with boundedly rational behavior. </p></details>
+
 - **<b style='color:#005851'>An Experiment on Threshold Public Goods Game with Communication under Unanimity Rule</b>** (with <a href="https://www.po-hsuan-lin.com/" target="_blank">Po-Hsuan Lin</a> and <a href="http://www.its.caltech.edu/~trp/" target="_blank">Thomas R. Palfrey</a>)
 <br><br>
 Draft coming soon.
