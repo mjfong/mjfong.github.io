@@ -29,7 +29,7 @@ Welcome to my research page!
   
 ## Working Papers
 
-- **<a href="https://arxiv.org/abs/2608.18069" target="_blank"><b style='color:#005851'>Revisiting the Intra-Team Communication Method to Elicit Level-<i>k</i> Reasoning in Beauty Contests and 11-20 Games</b></a>** (with Zitian Wang, Istiak Ahmed, Patarasate Unjitwattana, Emily Yunxi Xie and <a href="https://www.po-hsuan-lin.com/" target="_blank">Po-Hsuan Lin</a>) Revising for <em><strong>European Economic Review</strong></em>
+- **<a href="https://arxiv.org/abs/2608.18069" target="_blank"><b style='color:#005851'>Revisiting the Intra-Team Communication Method to Elicit Level-<i>k</i> Reasoning in Beauty Contests and 11-20 Games</b></a>** (with Zitian Wang, Istiak Ahmed, Patarasate Unjitwattana, Emily Yunxi Xie and <a href="https://www.po-hsuan-lin.com/" target="_blank">Po-Hsuan Lin</a>) <i>Revising for <em><strong>European Economic Review</strong></em></i>
 <br><br>
 arXiv:2608.18069, Updated 18 August 2026 
   <details><summary><ins>Abstract</ins></summary><br><br>
