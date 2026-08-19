@@ -29,7 +29,7 @@ Welcome to my research page!
   
 ## Working Papers
 
-- **<a href="https://arxiv.org/abs/2608.18069" target="_blank"><b style='color:#005851'>Revisiting the Intra-Team Communication Method to Elicit Level-<i>k</i> Reasoning in Beauty Contests and 11-20 Games</b></a>** (with Zitian Wang, Istiak Ahmed, Patarasate Unjitwattana, Emily Yunxi Xie and <a href="https://www.po-hsuan-lin.com/" target="_blank">Po-Hsuan Lin</a>) <i>Revising for <em><strong>European Economic Review</strong></em></i>
+- **<a href="https://arxiv.org/abs/2608.18069" target="_blank"><b style='color:#005851'>Revisiting the Intra-Team Communication Method to Elicit Level-<i>k</i> Reasoning in Beauty Contests and 11-20 Games</b></a>** (with Zitian Wang, Istiak Ahmed, Patarasate Unjitwattana, Emily Yunxi Xie and <a href="https://www.po-hsuan-lin.com/" target="_blank">Po-Hsuan Lin</a>) <em>Revising for <strong>European Economic Review</strong></em>
 <br><br>
 arXiv:2608.18069, Updated 18 August 2026 
   <details><summary><ins>Abstract</ins></summary><br><br>
@@ -48,3 +48,9 @@ arXiv:2304.05515v3, Updated 7 May 2026
 Draft coming soon.
   <details><summary><ins>Abstract</ins></summary><br><br>
   <p>This paper theoretically and experimentally studies a threshold public goods game with communication, in which each player decides whether to contribute based on a private cost and can send a non-binding binary message before making their contribution decision. The public good is provided only if all players contribute. We find theoretically that cursedness---the tendency to neglect other players’ private information and actions---can reduce the informativeness of messages and, consequently, public good provision. Moreover, the effect of cursedness is sensitive to group size and to the support of the distribution of private costs. We experimentally manipulate group size (two or three players) and the support of the distribution of private costs, and find that the disequilibrium behavior is qualitatively consistent with the predictions of cursedness. However, public goods provision remains at the efficient level because the emergence of altruistic behavior offsets the inefficiency caused by cursedness. </p></details>
+
+- **<b style='color:#005851'>Gender Norms and Greedy Work: An Experiment on the Division of Labor</b>** (with Aenne Läufer and <a href="https://ockenfels.uni-koeln.de/de/ao" target="_blank">Axel Ockenfels</a>)
+<br><br>
+New draft coming soon.
+  <details><summary><ins>Abstract</ins></summary><br><br>
+  <p>According to Goldin (2021), the more likely selection of men into "greedy jobs" is one of the underlying reasons for the observed gender gaps in earnings and promotions. Greedy jobs are characterized by wages that overproportionally reward flexible and long hours. Using a two-stage real-effort experiment in which at most one group member can take a greedy job,wemodel the negotiation between a male and a female subject over who takes the greedy job. We analyze whether gender, productivity, or a combination of both serves as the focal point in the bargaining process. We find that when the female subject is more productive than the male subject, groups are more likely to choose a division of labor that is not payoff-maximizing compared to situations in which the male subject is more productive than the female subject. By examining the interplay between gender norms and monetary incentives, we provide insights into the potential mechanisms contributing to gender inequality in the labor market. </p></details>
