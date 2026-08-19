@@ -29,8 +29,9 @@ Welcome to my research page!
   
 ## Working Papers
 
-- **<a href="https://arxiv.org/abs/2608.18069" target="_blank"><b style='color:#005851'>Revisiting the Intra-Team Communication Method to Elicit Level-<i>k</i> Reasoning in Beauty Contests and 11-20 Games</b></a>** (with Zitian Wang, Istiak Ahmed, Patarasate Unjitwattana, Emily Yunxi Xie and <a href="https://www.po-hsuan-lin.com/" target="_blank">Po-Hsuan Lin</a>) <i>Revising for <b>European Economic Review</b></i>
+- **<a href="https://arxiv.org/abs/2608.18069" target="_blank"><b style='color:#005851'>Revisiting the Intra-Team Communication Method to Elicit Level-<i>k</i> Reasoning in Beauty Contests and 11-20 Games</b></a>** (with Zitian Wang, Istiak Ahmed, Patarasate Unjitwattana, Emily Yunxi Xie and <a href="https://www.po-hsuan-lin.com/" target="_blank">Po-Hsuan Lin</a>) 
 <br><br>
+Revising for <em><strong>European Economic Review</strong></em><br>
 arXiv:2608.18069, Updated 18 August 2026 
   <details><summary><ins>Abstract</ins></summary><br><br>
   <p>How level-0 players behave and how they are perceived by higher-level players are central questions in the literature on level-k models of boundedly rational strategic reasoning. To study these twin questions, we apply the intra-team communication method developed by Burchardi and Penczynski (2014) to identify level-0 actions and beliefs in the canonical beauty contest game and in a variant of the 11-20 game of Goeree et al. (2018), in which behavior appears inconsistent with the standard level-k model. In the beauty contest game, we replicate Burchardi and Penczynski (2014)'s finding that elicited level-0 beliefs align with observed level-0 actions. In the variant of the 11-20 game, however, elicited level-0 beliefs and observed level-0 actions diverge, and both depart from the standard level-0 assumption, suggesting a complementary explanation for the behavioral pattern documented by Goeree et al. (2018). </p></details><br>
