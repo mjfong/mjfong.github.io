@@ -29,7 +29,7 @@ Welcome to my research page!
   
 ## Working Papers
 
-- **<a href="https://arxiv.org/abs/2608.18069" target="_blank"><b style='color:#005851'>Revisiting the Intra-Team Communication Method to Elicit Level-<i>k</i> Reasoning in Beauty Contests and 11-20 Games</b></a>** (with Zitian Wang, Istiak Ahmed, Patarasate Unjitwattana, Emily Yunxi Xie and <a href="https://www.po-hsuan-lin.com/" target="_blank">Po-Hsuan Lin</a>) <em>Revising for <strong>European Economic Review</strong></em>
+- **<a href="https://arxiv.org/abs/2608.18069" target="_blank"><b style='color:#005851'>Revisiting the Intra-Team Communication Method to Elicit Level-<i>k</i> Reasoning in Beauty Contests and 11-20 Games</b></a>** (with Zitian Wang, Istiak Ahmed, Patarasate Unjitwattana, Emily Yunxi Xie and <a href="https://www.po-hsuan-lin.com/" target="_blank">Po-Hsuan Lin</a>) <em>Revising for <b>European Economic Review</b></em>
 <br><br>
 arXiv:2608.18069, Updated 18 August 2026 
   <details><summary><ins>Abstract</ins></summary><br><br>
@@ -47,7 +47,7 @@ arXiv:2304.05515v3, Updated 7 May 2026
 <br><br>
 Draft coming soon.
   <details><summary><ins>Abstract</ins></summary><br><br>
-  <p>This paper theoretically and experimentally studies a threshold public goods game with communication, in which each player decides whether to contribute based on a private cost and can send a non-binding binary message before making their contribution decision. The public good is provided only if all players contribute. We find theoretically that cursedness---the tendency to neglect other players’ private information and actions---can reduce the informativeness of messages and, consequently, public good provision. Moreover, the effect of cursedness is sensitive to group size and to the support of the distribution of private costs. We experimentally manipulate group size (two or three players) and the support of the distribution of private costs, and find that the disequilibrium behavior is qualitatively consistent with the predictions of cursedness. However, public goods provision remains at the efficient level because the emergence of altruistic behavior offsets the inefficiency caused by cursedness. </p></details>
+  <p>This paper theoretically and experimentally studies a threshold public goods game with communication, in which each player decides whether to contribute based on a private cost and can send a non-binding binary message before making their contribution decision. The public good is provided only if all players contribute. We find theoretically that cursedness---the tendency to neglect other players’ private information and actions---can reduce the informativeness of messages and, consequently, public good provision. Moreover, the effect of cursedness is sensitive to group size and to the support of the distribution of private costs. We experimentally manipulate group size (two or three players) and the support of the distribution of private costs, and find that the disequilibrium behavior is qualitatively consistent with the predictions of cursedness. However, public goods provision remains at the efficient level because the emergence of altruistic behavior offsets the inefficiency caused by cursedness. </p></details><br>
 
 - **<b style='color:#005851'>Gender Norms and Greedy Work: An Experiment on the Division of Labor</b>** (with Aenne Läufer and <a href="https://ockenfels.uni-koeln.de/de/ao" target="_blank">Axel Ockenfels</a>)
 <br><br>
